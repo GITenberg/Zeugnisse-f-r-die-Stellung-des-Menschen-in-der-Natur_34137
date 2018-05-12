@@ -1,0 +1,38 @@
+_repo: Zeugnisse-f-r-die-Stellung-des-Menschen-in-der-Natur_34137
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Carus, Julius Victor
+    alias: Carus, J. Victor (Julius Victor)
+    birthdate: 1823
+    deathdate: 1903
+    gutenberg_agent_id: '42807'
+    url: http://www.gutenberg.org/2009/agents/42807
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Huxley, Thomas Henry
+    alias: Huxley, T. H. (Thomas Henry)
+    birthdate: 1825
+    deathdate: 1895
+    gutenberg_agent_id: '595'
+    url: http://www.gutenberg.org/2009/agents/595
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Henry_Huxley
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34137'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human beings -- Origin'
+- !lcsh 'Apes'
+- !lcc 'QH'
+title: Zeugnisse für die Stellung des Menschen in der Natur
+url: http://www.gutenberg.org/ebooks/34137
